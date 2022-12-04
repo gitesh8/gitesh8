@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gitesh Sutar</h1>
-<h3 align="center">Aspiring Java Developer from Masai School</h3>
-
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEjmf0mFXAvsFLe8r5JhX183durhzsPfpwpEFshOdcjIzxuiDgW1PJKU4YuCiVylvVdcI31OZvr28QdyLPSyaFBp_2g3RNehuMT4OVUYXJ5tSLZ7ArvFtVBRIdROkSo2KGo2VsWniWRtc0w48EdCH3iRnvPgo0HKuLP-qfpUN1VhUf8jnwll8ZE_6A4Y" width="100%" height="800px" alt="coding" />
+<h3 align="center">A passionate web developer who likes to explore and learn new things, Currently learning java backend development at Masai School.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitesh8" alt="gitesh8" /></a> </p>
+
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://gitesh8.github.io/](https://gitesh8.github.io/)
 
