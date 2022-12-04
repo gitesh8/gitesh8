@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gitesh Sutar</h1>
 <h3 align="center">A passionate web developer who likes to explore and learn new things, Currently learning java backend development at Masai School.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitesh8" alt="gitesh8" /></a> </p>
+<img align="right" width="400" src="https://blogger.googleusercontent.com/img/a/AVvXsEh03whFXEUDIFi-0W17bc4mtx4ddvSApCctfQ2NQDTlAm4EljXh_e3YkwqApwlcEfNgMqIV3gas5BfagmLOI7-CVGX43_s8ZHfbxSRVFBqIyS9eib7iMxVVTZ_0nd20h61-wjkQ8otqKMy9HakwIy4_h6RUdUdlsx_dKFvXw-h83opFSJibJ3jhP860">
 
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://gitesh8.github.io/](https://gitesh8.github.io/)
 
 - 📫 How to reach me **giteshsutar88@gmail.com**
+- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitesh8" alt="gitesh8" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
