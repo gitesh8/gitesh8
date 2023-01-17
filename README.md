@@ -23,7 +23,7 @@
 - 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitesh8" alt="gitesh8" /></a> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitesh8&show_icons=true&locale=en&layout=compact" alt="gitesh8" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitesh8" alt="gitesh8" /></p>
 
 
 
@@ -31,6 +31,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitesh8&show_icons=true&locale=en" alt="gitesh8" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitesh8" alt="gitesh8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitesh8&" alt="gitesh8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitesh8" alt="gitesh8" /></p>
