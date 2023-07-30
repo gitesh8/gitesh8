@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,github,hibernate,css,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,github,hibernate,css,vscode&theme=light)](https://skillicons.dev)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitesh8" alt="gitesh8" /></a> </p>
 
