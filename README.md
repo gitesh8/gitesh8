@@ -5,6 +5,8 @@
 
 <img align="right" width="400" src="https://blogger.googleusercontent.com/img/a/AVvXsEh03whFXEUDIFi-0W17bc4mtx4ddvSApCctfQ2NQDTlAm4EljXh_e3YkwqApwlcEfNgMqIV3gas5BfagmLOI7-CVGX43_s8ZHfbxSRVFBqIyS9eib7iMxVVTZ_0nd20h61-wjkQ8otqKMy9HakwIy4_h6RUdUdlsx_dKFvXw-h83opFSJibJ3jhP860">
 
+[![](https://visitcount.itsvg.in/api?id=gitesh8&icon=8&color=1)](https://visitcount.itsvg.in)
+
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://gitesh8.github.io/](https://gitesh8.github.io/)
