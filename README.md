@@ -1,7 +1,7 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEg88LjkBmkLCthYJWQlUuwyFdGcwEgubj24OEVCE0ML9p5Pe-cTNZE21egEYubDp4o1vbW4tfl4maARjgMr1X20U8GqXSeyMtjio5G21UYSjKETVILnqS9ko6teZIXt3oZhwpJDPORjOKvv5xa393g3f-CbaEk7_VuNJXmE3lAZ85ORz5PaWGyNGLdh)
 
 <h1 align="center">Hi 👋, I'm Gitesh Sutar</h1>
-<h3 align="center">A passionate web developer who likes to explore and learn new things, Currently learning java backend development at Masai School.</h3>
+<h3 align="center">An enthusiastic Java Developer who can write production-ready code with both frontend and backend technologies. Open to working with new technologies.</h3>
 
 <img align="right" width="400" src="https://blogger.googleusercontent.com/img/a/AVvXsEh03whFXEUDIFi-0W17bc4mtx4ddvSApCctfQ2NQDTlAm4EljXh_e3YkwqApwlcEfNgMqIV3gas5BfagmLOI7-CVGX43_s8ZHfbxSRVFBqIyS9eib7iMxVVTZ_0nd20h61-wjkQ8otqKMy9HakwIy4_h6RUdUdlsx_dKFvXw-h83opFSJibJ3jhP860">
 
