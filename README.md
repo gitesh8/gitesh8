@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,github,hibernate,css,vscode&theme=light)](https://skillicons.dev)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gitesh8&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gitesh8&theme=darka&no-frame=false&no-bg=true&margin-w=25&margin-h=20)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitesh8&show_icons=true&locale=en&layout=compact" alt="gitesh8" /></p>
 
